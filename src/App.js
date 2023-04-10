@@ -1,6 +1,7 @@
+import { json } from 'body-parser';
 import './App.css';
 
-function App() {
+function Ap
   return (
     <div className="App">
       <header className="App-header">
@@ -24,6 +25,7 @@ function App() {
       </header>
     </div>
   );
-}
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "14694ee339b749db9746bea218f00b9b"}'></script><!-- End Cloudflare Web Analytics -->
+
 
 export default App;
